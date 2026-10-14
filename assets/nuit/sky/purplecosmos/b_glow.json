@@ -1,0 +1,1 @@
+{"schemaVersion":1,"type":"multi-textured","animatableTextures":[{"texture":"purplecosmos:textures/sky/sky2.png"}],"properties":{"layer":1,"blend":"add","fade":{"duration":24000,"keyFrames":{"0":1,"12000":1}},"rotation":{"duration":24000,"speed":0.5,"skyboxRotation":true,"axis":{"0":[0.5,1.0,0.0]},"mapping":{"0":[0.0,0.0,0.0]}}}}

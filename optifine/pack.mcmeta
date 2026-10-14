@@ -1,0 +1,28 @@
+{
+    "pack":  {
+                 "pack_format":  15,
+                 "description":  [
+                                     {
+                                         "bold":  true,
+                                         "color":  "dark_purple",
+                                         "text":  "Purple Cosmos Sky Pack OPTIFINE\n"
+                                     },
+                                     {
+                                         "text":  "made by ways",
+                                         "color":  "gray"
+                                     },
+                                     {
+                                         "text":  " | ",
+                                         "color":  "dark_gray"
+                                     },
+                                     {
+                                         "text":  "discord: ",
+                                         "color":  "dark_gray"
+                                     },
+                                     {
+                                         "text":  "waystobe",
+                                         "color":  "light_purple"
+                                     }
+                                 ]
+             }
+}

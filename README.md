@@ -4,10 +4,15 @@
 
 made by ways, discord: waystobe
 
-a purple cosmos sky pack. it uses optifine style sky files (`assets/minecraft/optifine/sky`), so it needs OptiFine or a mod that reads those.
+a purple cosmos sky for minecraft 1.21.11. two versions, pick the one that fits your setup:
 
-pack format 15 (see pack.mcmeta for the supported formats)
+- Purple Cosmos Sky Pack.zip: works with the Nuit mod (the normal version, use this one with Fabric)
+- Purple Cosmos Sky Pack OPTIFINE.zip: for OptiFine or a mod that reads optifine sky files
+
+both are in the release. the `optifine` folder in this repo is the OptiFine version, the rest is the Nuit version.
 
 ![sky1](screenshots/sky1.png)
 
 ![sky2](screenshots/sky2.png)
+
+![sky3](screenshots/sky3.png)

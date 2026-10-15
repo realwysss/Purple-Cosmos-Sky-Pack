@@ -16,3 +16,5 @@ both are in the release. the `optifine` folder in this repo is the OptiFine vers
 ![sky2](screenshots/sky2.png)
 
 ![sky3](screenshots/sky3.png)
+
+all rights reserved. made by wysss.
